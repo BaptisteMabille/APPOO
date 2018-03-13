@@ -1,8 +1,8 @@
 <?php
-include "./classes/Voiture.php";
-include "./classes/Log.php";
+include "./functions/classAutoLoader.php";
+spl_autoload_register("classAutoLoader");
 
-$voiture1 = new Voiture();
+$voiture1 = new Voiture(1000);
 
 var_dump($voiture1);
 
