@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ed865db8-980e-4557-8366-26a0cfe4e1c2" name="POO" url="http://localhost/CESI/POO">
+        <fileTransfer port="0" mountedRoot="C:\wamp\www\CESI\POO" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
